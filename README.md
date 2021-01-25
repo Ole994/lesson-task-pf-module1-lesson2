@@ -18,10 +18,10 @@ Declare and initialise a variable with all the working days of the week separate
 
 Create four variables that demonstrate the following operations:
 
--   addition
--   subtraction
--   multiplication
--   division
+- addition
+- subtraction
+- multiplication
+- division
 
 ### Question 4
 
@@ -69,3 +69,16 @@ Select the `h1` element on the page and set it's inner HTML value to be the vari
 ### Question 10
 
 Select the `body` element on the page and change its background colour to lightskyblue.
+
+The let keyword
+The const keyword
+Javascript arrow functions
+javascript class
+javascript promise
+javascript symbol
+default parameter
+array.find ()
+array.findIndex ()
+New number properties
+new number methods
+New global methods
